@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "631249763568",
+    "firebase_url": "https://prepared-parent-app-messaging.firebaseio.com",
+    "project_id": "prepared-parent-app-messaging",
+    "storage_bucket": "prepared-parent-app-messaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631249763568:android:5f2a704f4217030b",
+        "android_client_info": {
+          "package_name": "com.inova.preparedness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631249763568-ngq6qcb57bpranpoj2qh7jvuh4mtjlft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKX-9D8Gs9KYvhMLLtuh2DLlZaWA1ao7A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
